@@ -1,9 +1,9 @@
 * text=auto !eol
-Logger/Logger.cpp -text
-Logger/Logger.h -text
-Logger/LoggerException.h -text
-Logger/LoggerLib.sln -text
-Logger/LoggerLib.suo -text
-Logger/LoggerLib.vcxproj -text
-Logger/LoggerLib.vcxproj.filters -text
-Logger/LoggerLib.vcxproj.user -text
+LoggerLib/Logger.cpp -text
+LoggerLib/Logger.h -text
+LoggerLib/LoggerException.h -text
+LoggerLib/LoggerLib.sln -text
+LoggerLib/LoggerLib.suo -text
+LoggerLib/LoggerLib.vcxproj -text
+LoggerLib/LoggerLib.vcxproj.filters -text
+LoggerLib/LoggerLib.vcxproj.user -text
